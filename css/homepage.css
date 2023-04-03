@@ -1,0 +1,94 @@
+/*title*/
+#title{
+    background-color: lightgreen;
+    padding-bottom: 5%;
+}
+
+.brand{
+    color:#3F3D56;
+    padding-left: 10%;
+}
+
+.energy-locator{
+    padding-left: 10%;
+    padding-right: 2%;    
+    font-size: 1rem;
+
+}
+.img-footprint{
+    mix-blend-mode: multiply;
+    padding-left: 10%;
+}
+
+.title-text{
+    color: #3F3D56;
+    padding-top: 15%;
+    padding-right:7% ;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+
+
+
+
+/*Blogs*/
+#testimonials{
+    
+    text-align: center;
+    background-color:#7FFFD4;
+    color: #3F3D56;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+#press{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    padding: 20px 20px 50px;
+}
+
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.global-warming-img{
+    height: 400px;
+    width: 350px;
+    border-radius: 100%;
+    padding: 4%;
+
+}
+
+.tree-img{
+    height: 400px;
+    width: 350px;
+    border-radius: 100%;
+    padding: 4%;
+}
+
+
+@media (max-width:600px){
+    .img-footprint{
+        mix-blend-mode: multiply;
+        padding-left: 10%;
+        width: 400px;
+    }
+
+    .head-text{
+        text-align: center;
+    }
+}
+
